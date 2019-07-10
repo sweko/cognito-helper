@@ -1,0 +1,24 @@
+{
+  "name": "cognito-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweko/cognito-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweko/cognito-helper/issues"
+  },
+  "homepage": "https://github.com/sweko/cognito-helper#readme",
+  "dependencies": {
+    "@types/node-fetch": "^2.3.7",
+    "amazon-cognito-identity-js": "^3.0.13",
+    "node-fetch": "^2.6.0"
+  }
+}
